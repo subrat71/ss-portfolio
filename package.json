@@ -1,0 +1,25 @@
+{
+  "name": "ss-portfolio",
+  "version": "1.0.0",
+  "description": "knowledge hub",
+  "main": "GruntFile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subrat71/ss-portfolio.git"
+  },
+  "author": "SS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subrat71/ss-portfolio/issues"
+  },
+  "homepage": "https://github.com/subrat71/ss-portfolio#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-http": "^2.2.0",
+    "grunt-notify": "^0.4.5",
+    "grunt-open": "^0.2.3"
+  }
+}
